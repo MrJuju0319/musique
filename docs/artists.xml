@@ -2,25 +2,25 @@
     <channel>
         <title><![CDATA[Lidarr - Liste d'artistes]]></title>
         <description><![CDATA[Ajout automatique via flux RSS]]></description>
-        <link>https://TON-UTILISATEUR.github.io/lidarr-rss/</link>
+        <link>https://MrJuju0319.github.io/lidarr-rss/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 May 2025 12:36:19 GMT</lastBuildDate>
-        <atom:link href="https://TON-UTILISATEUR.github.io/lidarr-rss/artists.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 10 May 2025 12:38:50 GMT</lastBuildDate>
+        <atom:link href="https://MrJuju0319.github.io/lidarr-rss/artists.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[fr]]></language>
         <item>
             <title><![CDATA[Lomepal]]></title>
             <guid isPermaLink="false">lomepal</guid>
-            <pubDate>Sat, 10 May 2025 12:36:19 GMT</pubDate>
+            <pubDate>Sat, 10 May 2025 12:38:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yassine Stein]]></title>
             <guid isPermaLink="false">yassine-stein</guid>
-            <pubDate>Sat, 10 May 2025 12:35:19 GMT</pubDate>
+            <pubDate>Sat, 10 May 2025 12:37:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stromae]]></title>
             <guid isPermaLink="false">stromae</guid>
-            <pubDate>Sat, 10 May 2025 12:34:19 GMT</pubDate>
+            <pubDate>Sat, 10 May 2025 12:36:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
