@@ -6,8 +6,8 @@ const artists = fs.readFileSync('artists.txt', 'utf8').split('\n').filter(Boolea
 const feed = new RSS({
   title: 'Lidarr - Liste d\'artistes',
   description: 'Ajout automatique via flux RSS',
-  feed_url: 'https://TON-UTILISATEUR.github.io/lidarr-rss/artists.xml',
-  site_url: 'https://TON-UTILISATEUR.github.io/lidarr-rss/',
+  feed_url: 'https://MrJuju0319.github.io/lidarr-rss/artists.xml',
+  site_url: 'https://MrJuju0319.github.io/lidarr-rss/',
   language: 'fr'
 });
 
